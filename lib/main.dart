@@ -14,7 +14,7 @@ main() async {
       projectId: "zaki-app-4e55e",
 
     )
-  );
+  ); 
   runApp(MyApp());
 }
 
